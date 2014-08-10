@@ -38,8 +38,10 @@ $('.navbar-collapse ul li a').click(function() {
  */
 var mapOpts = {
     mapTypeId: google.maps.MapTypeId.ROADMAP,
-    scaleControl: true,
-    scrollwheel: true
+    scaleControl: false,
+    disableDefaultUI: true,
+    draggable: false,
+    scrollwheel: false
 }
 var map = new google.maps.Map(document.getElementById("map"), mapOpts);
 //  We set zoom and center later by fitBounds()
