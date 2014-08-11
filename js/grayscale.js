@@ -150,7 +150,7 @@ makeMarker({
     position: new google.maps.LatLng(30.44559, -91.1566),
     title: "Jared Hromadka",
     sidebarItem: "Jared Hromadka",
-    content: "<b style=font-size:18px>Jared Hromadka<br>355 Hearthstone Dr, Baton Rouge, La, 70806<br>Pen and Ink drawings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=355+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Jared Hromadka<br>355 Hearthstone Dr, Baton Rouge, La, 70806<br>Pen and Ink drawings<br><a href=https://maps.google.com?q=355+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -164,7 +164,7 @@ makeMarker({
     position: new google.maps.LatLng(30.44504, -91.1568),
     title: "Mark Carroll",
     sidebarItem: "Mark Carroll",
-    content: "<b style=font-size:18px>Mark Carroll<br>408 Hearthstone Dr, Baton Rouge, La, 70806<br>Raku Pottery<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=408+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Mark Carroll<br>408 Hearthstone Dr, Baton Rouge, La, 70806<br>Raku Pottery<br><a href=https://maps.google.com?q=408+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -178,7 +178,7 @@ makeMarker({
     position: new google.maps.LatLng(30.44565, -91.1568),
     title: "Lisa Samuels",
     sidebarItem: "Lisa Samuels",
-    content: "<b style=font-size:18px>Lisa Samuels<br>348 Hearthstone Dr, Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=348+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Lisa Samuels<br>348 Hearthstone Dr, Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=348+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -192,7 +192,7 @@ makeMarker({
     position: new google.maps.LatLng(30.44484, -91.1566),
     title: "Andrew Keller",
     sidebarItem: "Andrew Keller",
-    content: "<b style=font-size:18px>Andrew Keller<br>429 Hearthstone Dr, Baton Rouge, La, 70806<br>Bier Garten<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=429+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Andrew Keller<br>429 Hearthstone Dr, Baton Rouge, La, 70806<br>Bier Garten<br><a href=https://maps.google.com?q=429+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -206,14 +206,14 @@ makeMarker({
     position: new google.maps.LatLng(30.44797, -91.156),
     title: "Betsy Wilks",
     sidebarItem: "Betsy Wilks",
-    content: "<b style=font-size:18px>Betsy Wilks<br>120 Beverly Drive, Baton Rouge, La, 70806<br>Culinary Arts<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=120+Beverly+Drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Betsy Wilks<br>120 Beverly Drive, Baton Rouge, La, 70806<br>Culinary Arts<br><a href=https://maps.google.com?q=120+Beverly+Drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44786, -91.1578),
     title: "Adam Szczepkowski",
     sidebarItem: "Adam Szczepkowski",
-    content: "<b style=font-size:18px>Adam Szczepkowski<br>126 Bedford Drive, Baton Rouge, La, 70806<br>Showcasing Recording Studio<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=126+Bedford+Drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Adam Szczepkowski<br>126 Bedford Drive, Baton Rouge, La, 70806<br>Showcasing Recording Studio<br><a href=https://maps.google.com?q=126+Bedford+Drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -241,14 +241,14 @@ makeMarker({
     position: new google.maps.LatLng(30.44489, -91.1576),
     title: "Charles Barbier",
     sidebarItem: "Charles Barbier",
-    content: "<b style=font-size:18px>Charles Barbier<br>420 bedford drive, Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=420+bedford+drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Charles Barbier<br>420 bedford drive, Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=420+bedford+drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44489, -91.1576),
     title: "Paul Neff",
     sidebarItem: "Paul Neff",
-    content: "<b style=font-size:18px>Paul Neff<br>420 bedford drive, Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=420+bedford+drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Paul Neff<br>420 bedford drive, Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=420+bedford+drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -297,7 +297,7 @@ makeMarker({
     position: new google.maps.LatLng(30.44614, -91.1559),
     title: "Cheryl Cloud",
     sidebarItem: "Cheryl Cloud",
-    content: "<b style=font-size:18px>Cheryl Cloud<br>302 Beverly Dr, Baton Rouge, La, 70806<br>Painting<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=302+Beverly+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Cheryl Cloud<br>302 Beverly Dr, Baton Rouge, La, 70806<br>Painting<br><a href=https://maps.google.com?q=302+Beverly+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -325,28 +325,28 @@ makeMarker({
     position: new google.maps.LatLng(30.44498, -91.1566),
     title: "Aaron Hussey",
     sidebarItem: "Aaron Hussey",
-    content: "<b style=font-size:18px>Aaron Hussey<br>415 Hearthstone Dr, Baton Rouge, La, 70806<br>Metal sculpture<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=415+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Aaron Hussey<br>415 Hearthstone Dr, Baton Rouge, La, 70806<br>Metal sculpture<br><a href=https://maps.google.com?q=415+Hearthstone+Dr+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44806, -91.1572),
     title: "Vivian Denmon",
     sidebarItem: "Vivian Denmon",
-    content: "<b style=font-size:18px>Vivian Denmon<br>3048 North Blvd., Baton Rouge, La, 70806<br>Art and Antiques<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=3048+North+Blvd.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Vivian Denmon<br>3048 North Blvd., Baton Rouge, La, 70806<br>Art and Antiques<br><a href=https://maps.google.com?q=3048+North+Blvd.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44563, -91.1559),
     title: "Katie Sweatman",
     sidebarItem: "Katie Sweatman",
-    content: "<b style=font-size:18px>Katie Sweatman<br>352 Beverly drive, Baton Rouge, La, 70806<br>paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=352+Beverly+drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Katie Sweatman<br>352 Beverly drive, Baton Rouge, La, 70806<br>paintings<br><a href=https://maps.google.com?q=352+Beverly+drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44594, -91.1559),
     title: "Barbara Chatlien",
     sidebarItem: "Barbara Chatlien",
-    content: "<b style=font-size:18px>Barbara Chatlien<br>322 Beverly Drive, Baton Rouge, La, 70806<br>Quilts needle felted and crochet amigumni animals<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=322+Beverly+Drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Barbara Chatlien<br>322 Beverly Drive, Baton Rouge, La, 70806<br>Quilts needle felted and crochet amigumni animals<br><a href=https://maps.google.com?q=322+Beverly+Drive+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 
 
