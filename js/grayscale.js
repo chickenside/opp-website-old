@@ -99,7 +99,7 @@ function SidebarItem(marker, opts) {
     row.innerHTML = opts.sidebarItem;
     row.className = opts.sidebarItemClassName || "sidebar_item";
     row.style.display = "block";
-    row.style.width = opts.sidebarItemWidth || "200px";
+    row.style.width = opts.sidebarItemWidth || "160px";
     row.onclick = function() {
         google.maps.event.trigger(marker, 'click');
     }
@@ -355,3 +355,4 @@ makeMarker({
  *   fit viewport to markers
  */
 map.fitBounds(markerBounds);
+
