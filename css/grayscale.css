@@ -280,6 +280,15 @@ a:hover, a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
+
+.contact-section a {
+    color: #41B9C1;
+    font-weight: 800;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
 .map-section {
     width: 70%;
     text-align: center;
