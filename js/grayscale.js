@@ -232,9 +232,9 @@ makeMarker({
 makeMarker({
     icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44717, -91.1569),
-    title: "BenjaminÂ NorwoodÂ Diller",
-    sidebarItem: "BenjaminÂ NorwoodÂ Diller",
-    content: "<b style=font-size:18px>BenjaminÂ NorwoodÂ Diller<br>206 Hearthstone, Baton Rouge, La, 70806<br>Paintings<br><a href=http://bendillerart.com/ target=_blank>Website</a><br><br><a href=https://maps.google.com?q=206+Hearthstone+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    title: "Benjamin Norwood Diller",
+    sidebarItem: "Benjamin Norwood Diller",
+    content: "<b style=font-size:18px>Benjamin Norwood Diller<br>206 Hearthstone, Baton Rouge, La, 70806<br>Paintings<br><a href=http://bendillerart.com/ target=_blank>Website</a><br><br><a href=https://maps.google.com?q=206+Hearthstone+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
