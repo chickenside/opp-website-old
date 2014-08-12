@@ -329,13 +329,6 @@ makeMarker({
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44613, -91.1557),
-    title: "BLANK",
-    sidebarItem: "BLANK",
-    content: "<b style=font-size:18px>BLANK<br>305 Beverly, Baton Rouge, La, 70806<br><br><a href=https://maps.google.com?q=305+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44594, -91.1559),
     title: "Barbara Chatlien",
     sidebarItem: "Barbara Chatlien",
