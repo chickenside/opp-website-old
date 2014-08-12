@@ -140,6 +140,13 @@ makeMarker({
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44751, -91.1578),
+    title: "Christopher Brumfield",
+    sidebarItem: "Christopher Brumfield",
+    content: "<b style=font-size:18px>Christopher Brumfield<br>162 Bedford, Baton Rouge, La, 70806<br>Ceramics<br><a href=http://christopherscottbrumfieldsart.blogspot.com/ target=_blank>Website</a><br><br><a href=https://maps.google.com?q=162+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44652, -91.1577),
     title: "Pure Delight Coffee",
     sidebarItem: "Pure Delight Coffee",
@@ -182,6 +189,13 @@ makeMarker({
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44493, -91.1576),
+    title: "Brandon Ducrest",
+    sidebarItem: "Brandon Ducrest",
+    content: "<b style=font-size:18px>Brandon Ducrest<br>416 Bedford, Baton Rouge, La, 70806<br>paintings<br><a href=https://maps.google.com?q=416+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
     position: new google.maps.LatLng(30.44489, -91.1576),
     title: "Tj Black",
     sidebarItem: "Tj Black",
@@ -207,62 +221,6 @@ makeMarker({
     title: "Paul Neff",
     sidebarItem: "Paul Neff",
     content: "<b style=font-size:18px>Paul Neff<br>420 Bedford, Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=420+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44493, -91.1576),
-    title: "Brandon Ducrest",
-    sidebarItem: "Brandon Ducrest",
-    content: "<b style=font-size:18px>Brandon Ducrest<br>416 Bedford, Baton Rouge, La, 70806<br>paintings<br><a href=https://maps.google.com?q=416+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44751, -91.1578),
-    title: "Christopher Brumfield",
-    sidebarItem: "Christopher Brumfield",
-    content: "<b style=font-size:18px>Christopher Brumfield<br>162 Bedford, Baton Rouge, La, 70806<br>Ceramics<br><a href=http://christopherscottbrumfieldsart.blogspot.com/ target=_blank>Website</a><br><br><a href=https://maps.google.com?q=162+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44797, -91.156),
-    title: "Betsy Wilks",
-    sidebarItem: "Betsy Wilks",
-    content: "<b style=font-size:18px>Betsy Wilks<br>120 Beverly, Baton Rouge, La, 70806<br>Culinary Arts<br><a href=https://maps.google.com?q=120+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44701, -91.1558),
-    title: "The Kids Stop!",
-    sidebarItem: "The Kids Stop!",
-    content: "<b style=font-size:18px>The Kids Stop!<br>217 Beverly, Baton Rouge, La, 70806<br>Baton Rouge Arts council Kids stop.<br>Enjoy lemonade and cookies and performances<br> by a few surprise guests!<br><a href=https://mail.google.com/mail/u/0/?ui=2&ik=0cd192b1fc&view=att&th=1478e44d827320b1&attid=0.1&disp=safe&realattid=9a8632c1b725905d_0.1&zw target=_blank>Website</a><br><br><a href=https://maps.google.com?q=217+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44614, -91.1559),
-    title: "Lizzi Ward",
-    sidebarItem: "Lizzi Ward",
-    content: "<b style=font-size:18px>Lizzi Ward<br>302 Beverly, Baton Rouge, La, 70806<br>Digital imagery; oil; acrylic; water color; ink<br><a href=http://www.liziward.com/ target=_blank>Website</a><br><br><a href=https://maps.google.com?q=302+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44614, -91.1559),
-    title: "Cheryl Cloud",
-    sidebarItem: "Cheryl Cloud",
-    content: "<b style=font-size:18px>Cheryl Cloud<br>302 Beverly, Baton Rouge, La, 70806<br>Painting<br><a href=https://maps.google.com?q=302+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44594, -91.1559),
-    title: "Barbara Chatlien",
-    sidebarItem: "Barbara Chatlien",
-    content: "<b style=font-size:18px>Barbara Chatlien<br>322 Beverly, Baton Rouge, La, 70806<br>Quilts needle felted and crochet amigumni animals<br><a href=https://maps.google.com?q=322+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
-});
-makeMarker({
-    icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44563, -91.1559),
-    title: "Katie swetman",
-    sidebarItem: "Katie swetman",
-    content: "<b style=font-size:18px>Katie swetman<br>352 Beverly, Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=352+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -343,10 +301,52 @@ makeMarker({
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
-    position: new google.maps.LatLng(30.44806, -91.1572),
-    title: "Vivian Denmon",
-    sidebarItem: "Vivian Denmon",
-    content: "<b style=font-size:18px>Vivian Denmon<br>3048 North Blvd, Baton Rouge, La, 70806<br>Art and Antiques<br><a href=https://maps.google.com?q=3048+North+Blvd+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    position: new google.maps.LatLng(30.44797, -91.156),
+    title: "Betsy Wilks",
+    sidebarItem: "Betsy Wilks",
+    content: "<b style=font-size:18px>Betsy Wilks<br>120 Beverly, Baton Rouge, La, 70806<br>Culinary Arts<br><a href=https://maps.google.com?q=120+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44701, -91.1558),
+    title: "The Kids Stop!",
+    sidebarItem: "The Kids Stop!",
+    content: "<b style=font-size:18px>The Kids Stop!<br>217 Beverly, Baton Rouge, La, 70806<br>Baton Rouge Arts council Kids stop.<br>Enjoy lemonade and cookies and performances<br> by a few surprise guests!<br><a href=https://mail.google.com/mail/u/0/?ui=2&ik=0cd192b1fc&view=att&th=1478e44d827320b1&attid=0.1&disp=safe&realattid=9a8632c1b725905d_0.1&zw target=_blank>Website</a><br><br><a href=https://maps.google.com?q=217+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44614, -91.1559),
+    title: "Lizzi Ward",
+    sidebarItem: "Lizzi Ward",
+    content: "<b style=font-size:18px>Lizzi Ward<br>302 Beverly, Baton Rouge, La, 70806<br>Digital imagery; oil; acrylic; water color; ink<br><a href=http://www.liziward.com/ target=_blank>Website</a><br><br><a href=https://maps.google.com?q=302+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44614, -91.1559),
+    title: "Cheryl Cloud",
+    sidebarItem: "Cheryl Cloud",
+    content: "<b style=font-size:18px>Cheryl Cloud<br>302 Beverly, Baton Rouge, La, 70806<br>Painting<br><a href=https://maps.google.com?q=302+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44613, -91.1557),
+    title: "BLANK",
+    sidebarItem: "BLANK",
+    content: "<b style=font-size:18px>BLANK<br>305 Beverly, Baton Rouge, La, 70806<br><br><a href=https://maps.google.com?q=305+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44594, -91.1559),
+    title: "Barbara Chatlien",
+    sidebarItem: "Barbara Chatlien",
+    content: "<b style=font-size:18px>Barbara Chatlien<br>322 Beverly, Baton Rouge, La, 70806<br>Quilts needle felted and crochet amigumni animals<br><a href=https://maps.google.com?q=322+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44563, -91.1559),
+    title: "Katie Swetman",
+    sidebarItem: "Katie Swetman",
+    content: "<b style=font-size:18px>Katie Swetman<br>352 Beverly, Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=352+Beverly+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/art-museum-2.png',
@@ -368,6 +368,13 @@ makeMarker({
     title: "John Guillory",
     sidebarItem: "John Guillory",
     content: "<b style=font-size:18px>John Guillory<br>3118 Wilshire, Baton Rouge, La, 70806<br>Oil and watercolor paintings<br><a href=http://johnguillory.com target=_blank>Website</a><br><br><a href=https://maps.google.com?q=3118+Wilshire+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+});
+makeMarker({
+    icon: 'img/art-museum-2.png',
+    position: new google.maps.LatLng(30.44806, -91.1572),
+    title: "Vivian Denmon",
+    sidebarItem: "Vivian Denmon",
+    content: "<b style=font-size:18px>Vivian Denmon<br>3048 North Blvd, Baton Rouge, La, 70806<br>Art and Antiques<br><a href=https://maps.google.com?q=3048+North+Blvd+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 
 
