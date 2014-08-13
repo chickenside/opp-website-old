@@ -1,2 +1,17 @@
 {
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".git*",
+				"*.kml",
+				"*.csv",
+				"opp.sublime*",
+				"*.jpg"
+			],
+			"folder_exclude_patterns":  ["font*","img","less","thumbnails"],
+			"path": "/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website"
+		}
+	]
 }
