@@ -27,7 +27,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 39007,
+				"buffer_size": 40897,
 				"line_ending": "Windows"
 			}
 		},
@@ -168,7 +168,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 102.0,
+		"height": 0.0,
 		"where_history":
 		[
 		]
@@ -178,6 +178,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"header",
+			"intro",
+			"oppflyer",
 			"<a href= target=_blank>Website</a><br><br>",
 			"Sweatman",
 			"<a href= target=_blank>Website</a><br><br>",
@@ -302,15 +305,12 @@
 			"start boot",
 			"START BOOT",
 			"Start Boot",
-			"section",
-			"download",
-			"down",
-			".jpg"
+			"section"
 		],
-		"highlight": false,
+		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
 			"",
@@ -344,15 +344,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 39007,
+						"buffer_size": 40897,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1855,
-								1855
+								4717,
+								4723
 							]
 						],
 						"settings":
@@ -362,7 +362,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8763.0,
+						"translation.y": 2375.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -379,8 +379,8 @@
 						"selection":
 						[
 							[
-								576,
-								576
+								5895,
+								5895
 							]
 						],
 						"settings":
@@ -390,7 +390,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3739.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
