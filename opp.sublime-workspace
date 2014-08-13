@@ -38,14 +38,6 @@
 				"buffer_size": 9808,
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "js/grayscale.js",
-			"settings":
-			{
-				"buffer_size": 19143,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
@@ -88,10 +80,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/list.txt",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/opp.sublime-project",
-		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/index.html",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/css/grayscale.css",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/js/grayscale.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/index.html",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/gallery-img/list",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/js/grayscale orig.js",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/map.html",
@@ -175,7 +168,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 102.0,
 		"where_history":
 		[
 		]
@@ -343,7 +336,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -358,8 +351,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								1855,
+								1855
 							]
 						],
 						"settings":
@@ -369,7 +362,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 8763.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -386,41 +379,13 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								576,
+								576
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "js/grayscale.js",
-					"settings":
-					{
-						"buffer_size": 19143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
