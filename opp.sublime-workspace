@@ -27,16 +27,8 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 40897,
+				"buffer_size": 40917,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "opp.sublime-project",
-			"settings":
-			{
-				"buffer_size": 278,
-				"line_ending": "Unix"
 			}
 		},
 		{
@@ -44,6 +36,14 @@
 			"settings":
 			{
 				"buffer_size": 9808,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/grayscale.js",
+			"settings":
+			{
+				"buffer_size": 19143,
 				"line_ending": "Windows"
 			}
 		}
@@ -186,6 +186,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"ul",
 			"header",
 			"intro",
 			"oppflyer",
@@ -312,8 +313,7 @@
 			"start bootst",
 			"start boot",
 			"START BOOT",
-			"Start Boot",
-			"section"
+			"Start Boot"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -344,7 +344,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -352,15 +352,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 40897,
+						"buffer_size": 40917,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4717,
-								4723
+								11485,
+								11485
 							]
 						],
 						"settings":
@@ -370,40 +370,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 770.0,
+						"translation.y": 4857.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "opp.sublime-project",
-					"settings":
-					{
-						"buffer_size": 278,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "css/grayscale.css",
 					"settings":
 					{
@@ -426,6 +399,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 3739.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/grayscale.js",
+					"settings":
+					{
+						"buffer_size": 19143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								970,
+								973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2779.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
