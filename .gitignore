@@ -38,3 +38,6 @@ Icon
 # Misc
 opp.sublime*
 # =========================
+opp.sublime-workspace
+opp.sublime-workspace
+*.sublime-workspace
