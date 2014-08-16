@@ -27,7 +27,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 40903,
+				"buffer_size": 40975,
 				"line_ending": "Windows"
 			}
 		},
@@ -204,6 +204,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"<span class=\"light\">Prowl</span>",
 			"\"",
 			"Direct",
 			"ul",
@@ -330,8 +331,7 @@
 			"start",
 			"bootstr",
 			"start boot",
-			"start bootst",
-			"start boot"
+			"start bootst"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -339,6 +339,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"<span class=\"light\">Prowl </span>",
 			"CHAR(34)",
 			"",
 			"Swetman",
@@ -363,7 +364,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -371,15 +372,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 40903,
+						"buffer_size": 40975,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38912,
-								38912
+								7332,
+								7332
 							]
 						],
 						"settings":
@@ -389,7 +390,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 13755.0,
+						"translation.y": 3037.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
