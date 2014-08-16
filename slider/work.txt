@@ -1,0 +1,4 @@
+<li data-geo-lat=CHAR(34)41.9786CHAR(34) data-geo-long=CHAR(34)-87.9047CHAR(34)> <h3>O'Hare Airport</h3> <p>Flights n' stuff</p> <p class=CHAR(34)longdescCHAR(34)> <strong>About:</strong>O'Hare International Airport has been voted the CHAR(34)Best Airport in North AmericaCHAR(34) for 10 years by two separate sources: Readers of the U.S. Edition of Business Traveler Magazine (1998-2003) and Global Traveler Magazine (2004-2007). Travel and Leisure magazine's 2009 CHAR(34)America's Favorite CitiesCHAR(34) ranked Chicago's Airport System (O'Hare and Midway) the second-worst for delays, New York City's airport system (JFK, Newark Liberty, and LaGuardia) being the first. <a href=https://maps.google.com?q=126+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a></p>             </li>
+
+
+"<li data-geo-lat="CHAR(34),h2," data-geo-long="CHAR(34),i2,""

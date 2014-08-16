@@ -27,7 +27,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 40908,
+				"buffer_size": 40903,
 				"line_ending": "Windows"
 			}
 		},
@@ -46,12 +46,29 @@
 				"buffer_size": 19143,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "slider/index.html",
+			"settings":
+			{
+				"buffer_size": 11640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slider/work.txt",
+			"settings":
+			{
+				"buffer_size": 856,
+				"line_ending": "Windows",
+				"name": "<li data-geo-lat=CHAR(34)41.9786CHAR(34) data-geo-"
+			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 311.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -88,6 +105,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/.gitignore",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/list.txt",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/opp.sublime-project",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/css/grayscale.css",
@@ -186,6 +204,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"\"",
+			"Direct",
 			"ul",
 			"header",
 			"intro",
@@ -311,9 +331,7 @@
 			"bootstr",
 			"start boot",
 			"start bootst",
-			"start boot",
-			"START BOOT",
-			"Start Boot"
+			"start boot"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -321,6 +339,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"CHAR(34)",
 			"",
 			"Swetman",
 			"",
@@ -344,7 +363,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -352,15 +371,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 40908,
+						"buffer_size": 40903,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								28497,
-								28497
+								38912,
+								38912
 							]
 						],
 						"settings":
@@ -370,7 +389,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9201.0,
+						"translation.y": 13755.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -415,8 +434,8 @@
 						"selection":
 						[
 							[
-								970,
-								973
+								4105,
+								4200
 							]
 						],
 						"settings":
@@ -425,8 +444,63 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
+						"translation.x": 1056.0,
+						"translation.y": 2669.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "slider/index.html",
+					"settings":
+					{
+						"buffer_size": 11640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2571,
+								2571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
 						"translation.x": 0.0,
-						"translation.y": 2779.0,
+						"translation.y": 1822.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "slider/work.txt",
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								856,
+								856
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<li data-geo-lat=CHAR(34)41.9786CHAR(34) data-geo-",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -490,6 +564,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 180.0,
+	"side_bar_width": 165.0,
 	"status_bar_visible": true
 }
