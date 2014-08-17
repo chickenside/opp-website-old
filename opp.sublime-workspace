@@ -51,15 +51,23 @@
 			"file": "slider/index.html",
 			"settings":
 			{
-				"buffer_size": 11640,
+				"buffer_size": 15590,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "map (2).html",
+			"settings":
+			{
+				"buffer_size": 15730,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "slider/work.txt",
 			"settings":
 			{
-				"buffer_size": 856,
+				"buffer_size": 1714,
 				"line_ending": "Windows",
 				"name": "<li data-geo-lat=CHAR(34)41.9786CHAR(34) data-geo-"
 			}
@@ -68,9 +76,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 311.0,
 		"selected_items":
 		[
+			[
+				"htm",
+				"HTMLPrettify"
+			],
 			[
 				"html",
 				"HTMLPrettify"
@@ -80,15 +92,11 @@
 				"Project: Add Folder"
 			],
 			[
-				"htm",
-				"HTMLPrettify"
-			],
-			[
 				"comm",
 				"Toggle Comment"
 			]
 		],
-		"width": 392.0
+		"width": 416.0
 	},
 	"console":
 	{
@@ -105,6 +113,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/js/map.js",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/.gitignore",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/list.txt",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/opp.sublime-project",
@@ -204,6 +213,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"<a href=t arget=_blank>Website</a> \\| ",
+			"<a href=t arget=_blank>Website</a> | ",
+			"<a href=http://www.liziward.com/ target=_blank>Website</a> | ",
+			"<a href=t arget=_blank>Website</a> | ",
 			"<span class=\"light\">Prowl</span>",
 			"\"",
 			"Direct",
@@ -327,18 +340,15 @@
 			"api",
 			"map",
 			"download",
-			"navbar",
-			"start",
-			"bootstr",
-			"start boot",
-			"start bootst"
+			"navbar"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": true,
 		"replace_history":
 		[
+			"",
 			"<span class=\"light\">Prowl </span>",
 			"CHAR(34)",
 			"",
@@ -364,7 +374,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -379,8 +389,8 @@
 						"selection":
 						[
 							[
-								7332,
-								7332
+								6409,
+								6409
 							]
 						],
 						"settings":
@@ -456,15 +466,15 @@
 					"file": "slider/index.html",
 					"settings":
 					{
-						"buffer_size": 11640,
+						"buffer_size": 15590,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2571,
-								2571
+								14912,
+								14912
 							]
 						],
 						"settings":
@@ -474,31 +484,59 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1822.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "slider/work.txt",
+					"file": "map (2).html",
 					"settings":
 					{
-						"buffer_size": 856,
+						"buffer_size": 15730,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								856,
-								856
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "slider/work.txt",
+					"settings":
+					{
+						"buffer_size": 1714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								994,
+								994
 							]
 						],
 						"settings":
 						{
 							"auto_name": "<li data-geo-lat=CHAR(34)41.9786CHAR(34) data-geo-",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

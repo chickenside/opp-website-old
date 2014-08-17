@@ -280,7 +280,6 @@ a:hover, a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
-
 .contact-section a {
     color: #41B9C1;
     font-weight: 800;
@@ -288,10 +287,9 @@ a:hover, a:focus {
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 }
-
 .map-section {
-    width: 70%;
-    text-align: center;
+    width: 100%;
+    text-align: left;
     padding-top: 50px;
     color: #FFFDE2;
     background-color: #000;
@@ -299,6 +297,115 @@ a:hover, a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.map-section p {
+    font-size: 24px;
+}
+
+.map-section h1 {
+    margin: 0 0 15px 0;
+    font: bold 48px Helvetica, Arial, Sans-Serif;
+    letter-spacing: -2px;
+}
+.map-section h2 {
+    margin: 0 0 15px 0;
+    font: bold 32px Helvetica, Arial, Sans-Serif;
+    letter-spacing: -1px;
+    text-shadow: 0 1px 0px rgba(255, 255, 255, 0.3);
+}
+.map-section h3 {
+    margin: 0 0 1px 0;
+    font: bold 24px Helvetica, Arial, Sans-Serif;
+    letter-spacing: -1px;
+}
+
+.map-section a {
+    color: #000;
+    font-weight: 800;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.map-section a:hover, a:focus {
+    text-decoration: none;
+    color: #11505d;
+}
+/*.map-section body {
+    color: #FFFDE2;
+}*/
+
+#page-wrap {
+    width: 1000px;
+    margin: 60px auto;
+}
+#map_canvas {
+/*    width: 100%;*/
+    height: 550px;
+    width: 327px;
+    float: left;
+    position: relative;
+    z-index: 30 !important;
+}
+
+#locations {
+    list-style: none;
+    width: 320px;
+    float: left;
+}
+#locations li {
+    padding: 10px;
+    width: 250px;
+    float: left;
+    position: relative;
+    z-index: 20;
+    font: 14px Georgia, serif;
+    color: #FFFDE2;
+    background: #E34930;
+}
+#locations li:hover, #locations li.hover {
+    background: #41B9C1 url(../images/shadow.png) 128px 0 repeat-y;
+}
+#locations li:hover h3, #locations li.hover h3 {
+    /*    color: red;*/
+    /*    text-shadow: 0 1px 0px rgba(255, 255, 255, 0.3);*/
+}
+#content {
+    width: 300px;
+}
+#more-info {
+    width: 340px;
+    float: right;
+    background: #E34930;
+    padding: 10px;
+    height: 550px;
+}
+/*#more-info * {
+    position: relative;
+    z-index: 40;
+    font: 24px Georgia, serif;
+    font-weight: 500;*/
+}
+#more-info a {
+    color: #000;
+    font-weight: 800;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+#more-info a:hover, a:focus {
+    text-decoration: none;
+    color: #11505d;
+}
+#more-info > div {
+    background: #41B9C1;
+    /*    -moz-box-shadow: 0 0 14px rgba(70, 49, 1, 0.5);
+    -webkit-box-shadow: 0 0 14px rgba(70, 49, 1, 0.5);*/
+    padding: 10px;
+    height: 530px;
+}
+.longdesc {
+    display: none;
 }
 #map {
     width: 70%;
