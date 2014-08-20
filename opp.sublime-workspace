@@ -27,7 +27,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 40975,
+				"buffer_size": 41246,
 				"line_ending": "Windows"
 			}
 		},
@@ -45,23 +45,6 @@
 			{
 				"buffer_size": 19143,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "slider/index.html",
-			"settings":
-			{
-				"buffer_size": 11640,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "slider/work.txt",
-			"settings":
-			{
-				"buffer_size": 856,
-				"line_ending": "Windows",
-				"name": "<li data-geo-lat=CHAR(34)41.9786CHAR(34) data-geo-"
 			}
 		}
 	],
@@ -105,6 +88,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/slider/work.txt",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/slider/index.html",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/.gitignore",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/list.txt",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/opp.sublime-project",
@@ -372,15 +357,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 40975,
+						"buffer_size": 41246,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7332,
-								7332
+								9907,
+								9907
 							]
 						],
 						"settings":
@@ -390,7 +375,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3037.0,
+						"translation.y": 4248.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -447,61 +432,6 @@
 						},
 						"translation.x": 1056.0,
 						"translation.y": 2669.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "slider/index.html",
-					"settings":
-					{
-						"buffer_size": 11640,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2571,
-								2571
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1822.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "slider/work.txt",
-					"settings":
-					{
-						"buffer_size": 856,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								856,
-								856
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<li data-geo-lat=CHAR(34)41.9786CHAR(34) data-geo-",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
