@@ -24,18 +24,26 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "css/grayscale.css",
 			"settings":
 			{
-				"buffer_size": 41246,
+				"buffer_size": 9843,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "css/grayscale.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9808,
+				"buffer_size": 41398,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<div class=\"container\">\n    <div class=\"row clearfix\">\n        <div class=\"col-md-12 column\">\n            <img class=\"center-block img-responsive\" src=\"img/oppflyer.jpg\">\n            <br>\n            <p class=\"intro-text\">Come\n\n                <span class=\"light\">Prowl</span>around the Ogden Park neighborhood in the Baton Rouge Mid City Arts District.</p>\n            <a href=\"#about\" class=\"btn btn-circle page-scroll\">\n                <i class=\"fa fa-angle-double-down animated\"></i>\n            </a>\n            <br>\n            <br>\n        </div>\n    </div>\n</div>\n",
+			"settings":
+			{
+				"buffer_size": 572,
 				"line_ending": "Windows"
 			}
 		},
@@ -354,46 +362,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 41246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9907,
-								9907
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4248.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "css/grayscale.css",
 					"settings":
 					{
-						"buffer_size": 9808,
+						"buffer_size": 9843,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5895,
-								5895
+								3467,
+								3473
 							]
 						],
 						"settings":
@@ -403,13 +383,66 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3739.0,
+						"translation.y": 2885.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 41398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4229,
+								4229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2112.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "js/grayscale.js",
 					"settings":
 					{
