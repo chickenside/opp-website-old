@@ -136,7 +136,7 @@ makeMarker({
     position: new google.maps.LatLng(30.447605, -91.157799),
     title: "Adam Szczepkowski ",
     sidebarItem: "Adam Szczepkowski ",
-    content: "<b style=font-size:18px>Adam Szczepkowski <br>126 Bedford Dr., Baton Rouge, La, 70806<br>Showcasing Recording Studio<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=126+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Adam Szczepkowski <br>126 Bedford Dr., Baton Rouge, La, 70806<br>Showcasing Recording Studio<br><a href=https://maps.google.com?q=126+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -157,21 +157,21 @@ makeMarker({
     position: new google.maps.LatLng(30.446244, -91.157634),
     title: "Jacon Botter",
     sidebarItem: "Jacon Botter",
-    content: "<b style=font-size:18px>Jacon Botter<br>262 Bedford Dr., Baton Rouge, La, 70806<br>Furniture<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=262+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Jacon Botter<br>262 Bedford Dr., Baton Rouge, La, 70806<br>Furniture<br><a href=https://maps.google.com?q=262+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.446244, -91.157634),
     title: "Kristi Gagliano",
     sidebarItem: "Kristi Gagliano",
-    content: "<b style=font-size:18px>Kristi Gagliano<br>262 Bedford Dr., Baton Rouge, La, 70806<br><br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=262+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Kristi Gagliano<br>262 Bedford Dr., Baton Rouge, La, 70806<br><br><a href=https://maps.google.com?q=262+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.446244, -91.157634),
     title: "Hunter Guidry",
     sidebarItem: "Hunter Guidry",
-    content: "<b style=font-size:18px>Hunter Guidry<br>262 Bedford Dr., Baton Rouge, La, 70806<br>Photography<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=262+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Hunter Guidry<br>262 Bedford Dr., Baton Rouge, La, 70806<br>Photography<br><a href=https://maps.google.com?q=262+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -213,7 +213,7 @@ makeMarker({
     position: new google.maps.LatLng(30.444995, -91.157635),
     title: "Brandon Ducrest",
     sidebarItem: "Brandon Ducrest",
-    content: "<b style=font-size:18px>Brandon Ducrest<br>416 Bedford Dr., Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=416+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Brandon Ducrest<br>416 Bedford Dr., Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=416+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -234,21 +234,21 @@ makeMarker({
     position: new google.maps.LatLng(30.444835, -91.157681),
     title: "Charles Barbier",
     sidebarItem: "Charles Barbier",
-    content: "<b style=font-size:18px>Charles Barbier<br>420 Bedford Dr., Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=420+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Charles Barbier<br>420 Bedford Dr., Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=420+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.444835, -91.157681),
     title: "Paul Neff",
     sidebarItem: "Paul Neff",
-    content: "<b style=font-size:18px>Paul Neff<br>420 Bedford Dr., Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=420+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Paul Neff<br>420 Bedford Dr., Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=420+Bedford+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.447659, -91.156044),
     title: "Betsy Wilks",
     sidebarItem: "Betsy Wilks",
-    content: "<b style=font-size:18px>Betsy Wilks<br>120 Beverly Dr., Baton Rouge, La, 70806<br>Culinary Arts<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=120+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Betsy Wilks<br>120 Beverly Dr., Baton Rouge, La, 70806<br>Culinary Arts<br><a href=https://maps.google.com?q=120+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -269,28 +269,28 @@ makeMarker({
     position: new google.maps.LatLng(30.446013, -91.155824),
     title: "Cheryl Cloud",
     sidebarItem: "Cheryl Cloud",
-    content: "<b style=font-size:18px>Cheryl Cloud<br>302 Beverly Dr., Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=302+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Cheryl Cloud<br>302 Beverly Dr., Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=302+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.445978, -91.155747),
     title: "Tanya Ruffin",
     sidebarItem: "Tanya Ruffin",
-    content: "<b style=font-size:18px>Tanya Ruffin<br>305 Beverly Dr., Baton Rouge, La, 70806<br>mixed media and paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=305+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Tanya Ruffin<br>305 Beverly Dr., Baton Rouge, La, 70806<br>mixed media and paintings<br><a href=https://maps.google.com?q=305+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.445735, -91.155858),
     title: "Barbara Chatlien",
     sidebarItem: "Barbara Chatlien",
-    content: "<b style=font-size:18px>Barbara Chatlien<br>322 Beverly Dr., Baton Rouge, La, 70806<br>Textiles<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=322+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Barbara Chatlien<br>322 Beverly Dr., Baton Rouge, La, 70806<br>Textiles<br><a href=https://maps.google.com?q=322+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.445307, -91.155776),
     title: "Katie Swetman",
     sidebarItem: "Katie Swetman",
-    content: "<b style=font-size:18px>Katie Swetman<br>352 Beverly Dr., Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=352+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Katie Swetman<br>352 Beverly Dr., Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=352+Beverly+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -332,14 +332,14 @@ makeMarker({
     position: new google.maps.LatLng(30.445407, -91.156721),
     title: "Lisa Samuels",
     sidebarItem: "Lisa Samuels",
-    content: "<b style=font-size:18px>Lisa Samuels<br>348 Hearthstone Dr., Baton Rouge, La, 70806<br>Paintings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=348+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Lisa Samuels<br>348 Hearthstone Dr., Baton Rouge, La, 70806<br>Paintings<br><a href=https://maps.google.com?q=348+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.445314, -91.156589),
     title: "Jared Hromadka",
     sidebarItem: "Jared Hromadka",
-    content: "<b style=font-size:18px>Jared Hromadka<br>355 Hearthstone Dr., Baton Rouge, La, 70806<br>Pen and Ink drawings<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=355+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Jared Hromadka<br>355 Hearthstone Dr., Baton Rouge, La, 70806<br>Pen and Ink drawings<br><a href=https://maps.google.com?q=355+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -353,7 +353,7 @@ makeMarker({
     position: new google.maps.LatLng(30.445262, -91.156803),
     title: "Robin and Barrington Neil",
     sidebarItem: "Robin and Barrington Neil",
-    content: "<b style=font-size:18px>Robin and Barrington Neil<br>360 Hearthstone Dr., Baton Rouge, La, 70806<br>Notes & Nosh<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=360+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Robin and Barrington Neil<br>360 Hearthstone Dr., Baton Rouge, La, 70806<br>Notes & Nosh<br><a href=https://maps.google.com?q=360+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -367,7 +367,7 @@ makeMarker({
     position: new google.maps.LatLng(30.445169, -91.156624),
     title: "Jim Vogler",
     sidebarItem: "Jim Vogler",
-    content: "<b style=font-size:18px>Jim Vogler<br>405 Hearthstone Dr., Baton Rouge, La, 70806<br>local honey!<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=405+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Jim Vogler<br>405 Hearthstone Dr., Baton Rouge, La, 70806<br>local honey!<br><a href=https://maps.google.com?q=405+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -381,7 +381,7 @@ makeMarker({
     position: new google.maps.LatLng(30.445018, -91.156725),
     title: "Mark Carroll",
     sidebarItem: "Mark Carroll",
-    content: "<b style=font-size:18px>Mark Carroll<br>408 Hearthstone Dr., Baton Rouge, La, 70806<br>Raku Pottery<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=408+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Mark Carroll<br>408 Hearthstone Dr., Baton Rouge, La, 70806<br>Raku Pottery<br><a href=https://maps.google.com?q=408+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
@@ -395,14 +395,14 @@ makeMarker({
     position: new google.maps.LatLng(30.444938, -91.156556),
     title: "Andrew Keller",
     sidebarItem: "Andrew Keller",
-    content: "<b style=font-size:18px>Andrew Keller<br>429 Hearthstone Dr., Baton Rouge, La, 70806<br>Bier Garten<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=429+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Andrew Keller<br>429 Hearthstone Dr., Baton Rouge, La, 70806<br>Bier Garten<br><a href=https://maps.google.com?q=429+Hearthstone+Dr.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
     position: new google.maps.LatLng(30.448088, -91.157102),
     title: "Vivian Denmon",
     sidebarItem: "Vivian Denmon",
-    content: "<b style=font-size:18px>Vivian Denmon<br>3048 North Blvd., Baton Rouge, La, 70806<br>Art and Antiques<br><a href= target=_blank>Website</a><br><br><a href=https://maps.google.com?q=3048+North+Blvd.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
+    content: "<b style=font-size:18px>Vivian Denmon<br>3048 North Blvd., Baton Rouge, La, 70806<br>Art and Antiques<br><a href=https://maps.google.com?q=3048+North+Blvd.+Baton+Rouge+La+70806 target=_blank>Directions</a></b>"
 });
 makeMarker({
     icon: 'img/asterisco.png',
