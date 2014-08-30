@@ -1,4 +1,20 @@
-<li data-geo-lat=CHAR(34)41.9786CHAR(34) data-geo-long=CHAR(34)-87.9047CHAR(34)> <h3>O'Hare Airport</h3> <p>Flights n' stuff</p> <p class=CHAR(34)longdescCHAR(34)> <strong>About:</strong>O'Hare International Airport has been voted the CHAR(34)Best Airport in North AmericaCHAR(34) for 10 years by two separate sources: Readers of the U.S. Edition of Business Traveler Magazine (1998-2003) and Global Traveler Magazine (2004-2007). Travel and Leisure magazine's 2009 CHAR(34)America's Favorite CitiesCHAR(34) ranked Chicago's Airport System (O'Hare and Midway) the second-worst for delays, New York City's airport system (JFK, Newark Liberty, and LaGuardia) being the first. <a href=https://maps.google.com?q=126+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a></p>             </li>
+            <li data-geo-lat="41.9786" data-geo-long="-87.9047">
+                <h3>O'Hare Airport</h3>
+                <p>Flights n' stuff</p>
+                <p class="longdesc">
+                    <strong>About:</strong>O'Hare International Airport has been voted the "Best Airport in North America" for 10 years by two separate sources: Readers of the U.S. Edition of Business Traveler Magazine (1998-2003) and Global Traveler Magazine (2004-2007). Travel and Leisure magazine's 2009 "America's Favorite Cities" ranked Chicago's Airport System (O'Hare and Midway) the second-worst for delays, New York City's airport system (JFK, Newark Liberty, and LaGuardia) being the first. <a href=https://maps.google.com?q=126+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a></p>
+            </li>
 
 
-"<li data-geo-lat="CHAR(34),h2," data-geo-long="CHAR(34),i2,""
+
+"<li data-geo-lat=",CHAR(34),I2,CHAR(34)," data-geo-long=",CHAR(34),J2,CHAR(34),"> <h3>",A2,"</h3> <p>",F2,"</p> <p class=",CHAR(34),"longdesc",CHAR(34),">",G2,"<br>",S2," | ",T2,"</p></li>"
+
+            <li data-geo-lat="30.44751" data-geo-long="-91.1578">
+                <h3>Christopher Brumfield</h3>
+                <p>Ceramics</p>
+                <p class="longdesc">
+                    <strong>About:</strong>O'Hare International Airport has been voted the CHAR(34)Best Airport in North AmericaCHAR(34) for 10 years by two separate sources: Readers of the U.S. Edition of Business Traveler Magazine (1998-2003) and Global Traveler Magazine.
+                    <a href=http://christopherscottbrumfieldsart.blogspot.com/ target=_blank>Website</a> | 
+                    <a href=https://maps.google.com?q=162+Bedford+Baton+Rouge+La+70806 target=_blank>Directions</a>
+                </p>
+            </li>
