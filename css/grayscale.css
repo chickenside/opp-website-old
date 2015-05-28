@@ -144,7 +144,7 @@ a:hover, a:focus {
     color: #FFFDE2;
     # background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
     /*background-color: #41B9C1;*/
-    background-color: #55c5d1;
+    background-color: #000000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
