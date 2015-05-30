@@ -1,19 +1,25 @@
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+ <html>
+
+   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript">
       if (typeof jQuery == 'undefined') {
         document.write(unescape("%3Cscript src='jquery-1.7.1.min.js' type='text/javascript'%3E%3C/script%3E"));
       }
+
     </script>
 
 <script type="text/javascript" src="fountain.js"></script>
 <script type="text/javascript">
 
-$.get("brick.fountain", function(data) {
-    var filetxt = data;
-    // FINISHED GETTING FILE, INSERT CODE
+$.get("brick.fountain", function(data){
+  fountain.parse(data);
+  document.write("Data Loaded: " + data);
+});
 
 
-  var file = "data";
-  var output = fountain.parse(file);
-    });
 </script>
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=zBu9iC3bw2vE.ksMJDzLziqpw" width="640" height="480"></iframe>
+
+</html>
