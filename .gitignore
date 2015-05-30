@@ -39,10 +39,8 @@ Icon
 *.sublime-project
 *.sublime-workspace
 # =========================
-opp.sublime-workspace
-opp.sublime-workspace
+opp.sublime*
 *.sublime-workspace
-opp.sublime-workspace
-opp.sublime-workspace
-opp.sublime-workspace
-opp.sublime-workspace
+.*
+*.sh
+*~
